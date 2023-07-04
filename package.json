@@ -1,0 +1,14 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "d",
+  "main": "asd",
+  "scripts": {
+    "test": "as"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
